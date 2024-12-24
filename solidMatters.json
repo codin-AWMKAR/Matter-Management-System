@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "676a92d4f8c72a578b9a002a",
+    "id": 4,
+    "name": "crumbs",
+    "state": "solid",
+    "stateHistory": [
+      {
+        "state": "solid",
+        "updatedAt": "2024-12-24T10:54:19.426Z",
+        "_id": "676a92dbf8c72a578b9a002d"
+      }
+    ],
+    "createdAt": "2024-12-24T10:54:12.715Z",
+    "__v": 1
+  },
+  {
+    "_id": "676a939ed4bdf6dbdf33d861",
+    "id": 6,
+    "name": "juice",
+    "state": "solid",
+    "stateHistory": [
+      {
+        "state": "solid",
+        "updatedAt": "2024-12-24T10:57:43.055Z",
+        "_id": "676a93a7d4bdf6dbdf33d864"
+      }
+    ],
+    "createdAt": "2024-12-24T10:57:34.856Z",
+    "__v": 1
+  }
+]
